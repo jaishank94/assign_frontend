@@ -1,0 +1,14 @@
+.containers {
+    background-color: rgb(255, 255, 255);
+    padding: 20px 40px;
+    color: #fff;
+    font-weight: 600;
+    box-shadow: 7px -8px 11px -5px rgba(#195190FF);
+}
+.activeLink{
+    color: #fff;
+    background-color: #195190FF;
+}
+.recaptcha {
+    margin-top: 5%;
+}
